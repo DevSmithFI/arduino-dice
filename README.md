@@ -13,7 +13,6 @@ the final dice result is displayed.
 - 1 × push button
 - 1 × 10 kΩ resistor
 - Breadboard
-- 9V battery
 
 ## Pin Configuration
 
