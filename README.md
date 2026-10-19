@@ -2,15 +2,6 @@
 
 A simple electronic dice built with an Arduino Uno.
 
-## Important
-
-Upload the `Dice.ino` sketch before connecting the breadboard.
-
-Pin D8 is used as an input for the push button. The circuit uses an
-external 10 kΩ pull-down resistor, so D8 should not be configured as
-an output while this circuit is connected.
-
-
 Press the button to start the dice animation. The LEDs animate before
 the final dice result is displayed.
 
@@ -44,3 +35,7 @@ the final dice result is displayed.
 ### Wiring diagram
 
 ![Wiring diagram](images/wiring-diagram.png)
+
+## Finished Project
+
+![Arduino Dice – finished prototype](images/photo.jpg)
